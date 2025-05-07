@@ -66,7 +66,9 @@ Publish the website in the given URL.
 </script>   
 </body>
 </html>
-* {
+
+gallery style.css
+*{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
